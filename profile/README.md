@@ -1,9 +1,9 @@
 # Hi there 👋
 
-Welcome to **CellverseLabs**, the official GitHub organization by **Cellstrat**! 🚀
+Welcome to **Cellverse**, the official GitHub organization by **Cellstrat**! 🚀
 
 ## 🌍 About Us
-At **CellverseLabs**, we are a **Generative AI community** for **Tech Enthusiasts, Doctors, Bioinformatics experts, and various professionals from the Pharma and Life Sciences industry**. Our goal is to drive innovation by developing **cutting-edge AI models, open-source frameworks, and research-driven applications**. We believe in **collaborative AI development** and invite professionals from diverse fields to join us in building the future.
+At **Cellverse**, we are a **Generative AI community** for **Tech Enthusiasts, Doctors, Bioinformatics experts, and various professionals from the Pharma and Life Sciences industry**. Our goal is to drive innovation by developing **cutting-edge AI models, open-source frameworks, and research-driven applications**. We believe in **collaborative AI development** and invite professionals from diverse fields to join us in building the future.
 
 ## 🌈 How to Contribute
 We welcome contributions from the community! Here’s how you can get involved:
